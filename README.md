@@ -20,7 +20,7 @@
     <br>
     <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> I love writing code
     <br>
-    <g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me anything about from <a href="https://github.com/ramazansancar/ramazansancar/issues" title="Issues">Here</a>
+    <g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me anything about from <a href="https://github.com/lazenes/lazenes/issues" title="Issues">Here</a>
     <br>
     <g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="mailto: ramazan@ramazansancar.com.tr">iletisim@enesbiber.com.tr</a>
   </p>
